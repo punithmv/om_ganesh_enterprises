@@ -1,0 +1,6 @@
+{
+  "name": "Om Ganesh Enterprises",
+  "description": "Interactive website, construction electrical materials depot (wires, fuses, conduits, MCBs, earthing) and appliance booking portal for Om Ganesh Enterprises, Mandipet, Davanagere with contractor BOQ estimator and bill savings calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
